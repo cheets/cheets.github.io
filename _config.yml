@@ -1,0 +1,18 @@
+name: Henri Koskenranta
+markdown: redcarpet
+pygments: true
+redcarpet:
+  extensions: ["no_intra_emphasis", "autolink", "tables", "with_toc_data"]
+baseurl:
+
+exclude:
+  - README.md
+  - LICENSE.md
+  - CNAME
+  - Gruntfile.coffee
+  - bower.json
+  - package.json
+  - cheets.github.io.iml
+  - config.rb
+  - sass
+  - node_modules

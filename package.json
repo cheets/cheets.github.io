@@ -1,0 +1,24 @@
+{
+    "name": "cheets.github.io",
+    "description": "My blog",
+    "version": "0.0.1",
+    "author": "Henri Koskenranta",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cheets/cheets.github.io.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://choosealicense.com/licenses/mit/"
+        }
+    ],
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-bower-task": "~0.3.1",
+        "grunt-concurrent": "~0.3.0",
+        "grunt-contrib-compass": "~0.5.0",
+        "grunt-contrib-watch": "~0.4.4",
+        "grunt-exec": "~0.4.2"
+    }
+}
